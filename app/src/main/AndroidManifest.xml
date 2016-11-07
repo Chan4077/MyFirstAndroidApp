@@ -3,7 +3,6 @@
     package="com.studio10.edricchan.myfirstapp">
 
     <!-- App Permissions -->
-    <uses-permission android:name="android.permission.SEND_SMS" />
 
     <application
         android:allowBackup="true"

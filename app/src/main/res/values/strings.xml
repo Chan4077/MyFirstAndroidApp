@@ -9,4 +9,16 @@
     <!--Menu strings-->
     <string name="menu_settings">Preferences</string>
     <string name="menu_about">About This App</string>
+
+    <!--Settings strings-->
+    <string name="settings_name">Name</string>
+    <string name="settings_name_summary">Enter your name to personalize the app.</string>
+    <string name="settings_shake_send_feedback">Shake to send feedback</string>
+    <string name="settings_shake_send_feedback_summary">When you shake your phone, a dialog will pop up asking if you would like to send feedback.</string>
+    <string name="settings_dark_mode">Dark mode</string>
+    <string name="settings_dark_mode_summary">Enables Dark mode, which changes the background to black.</string>
+    <string name="settings_updates">Check for updates</string>
+    <string name="settings_updates_summary">This checks for updates frequently.</string>
+    <string name="settings_type_download">Type of download</string>
+    <string name="settings_type_download_summary">Type of download.</string>
 </resources>
