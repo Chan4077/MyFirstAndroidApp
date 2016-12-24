@@ -15,9 +15,11 @@
         android:layout_height="wrap_content"
         android:text="@string/button_send"
         android:onClick="sendMessage" />
-    <Button android:id="@+id/destory_activity"
+
+    <Button
+        android:id="@+id/destory_activity"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Destroy Activity"
-        android:onClick="destoryActivity" />
+        android:onClick="destoryActivity"
+        android:text="@string/destroy_activity" />
 </LinearLayout>

@@ -16,7 +16,7 @@ Without your support, this would not be possible. Anyways, enough of the yabba g
 ## Getting started
 Hi, fellow Github user or guest! Welcome to this repo!
 This repository aims to make an Android app!
-This requires Android Studio!
+**This requires Android Studio!**
 If you would like to contribute, you need the following:
 
 - Have a Github account **(Required to contribute)**

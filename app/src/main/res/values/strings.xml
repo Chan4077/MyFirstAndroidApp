@@ -4,7 +4,8 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="permission_not_accepted">Please accept the permissions.</string>
-    <string name="permission_accepted">Permissions were accepted. \nHeading bavck.</string>
+    <string name="permission_accepted">Permissions were accepted. \nHeading back.</string>
+    <string name="destroy_activity">Destroy Activity</string>
 
     <!--Menu strings-->
     <string name="menu_settings">Preferences</string>
